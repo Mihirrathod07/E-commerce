@@ -1,6 +1,6 @@
 import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
-import logo from "./logo1.png";
+import logo from "./shop.png";
 import "./style.css";
 import { NavLink } from "react-router-dom";
 function NavScrollExample() {
@@ -10,7 +10,7 @@ function NavScrollExample() {
       style={{
         display: "flex",
         justifyContent: "space-between",
-        margin: "10px 0px 10px 0px",
+        margin: "0px 0px 10px 0px",
         alignItems: "center",
       }}
     >
